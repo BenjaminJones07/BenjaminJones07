@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaganashDev
 - 👀 I’m interested in programming, science, and maths!
-- 🌱 I’m currently learning working on my final project for CS50x 2021.
+- 🌱 I’m currently not working on anything in particular!
 - 💞️ I’m looking to collaborate on nothing right now!
 - 📫 How to reach me, email me on saganashdev@gmail.com.
 
